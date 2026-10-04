@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "LLM Gateways",
+  "repo": "ianwieds/awesome-llm-gateways",
+  "tagline": "Gateways, routers and proxies between applications and LLM providers: one API, routing, caching, budgets and guardrails.",
+  "scope": "It is about routing or governing LLM traffic between apps and providers, not an MCP gateway or a model host.",
+  "accent": "6366F1",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: request capsules travel from three app tiles into a switchboard console, where a dial turns to send each one to one of four model towers or to a cache drawer that pops open, while a budget bar fills."
 }
